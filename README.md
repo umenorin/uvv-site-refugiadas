@@ -16,7 +16,7 @@ header .logo: Aqui irá colocar expecificação para a LOGO do site para ela est
 
 header ul: como eu utilizei o <ul></ul> para ficar mais fácil de por os botões, essa parte ficará responsável para modificá-la
 
-header li: Aqui ficara as expecificações do tamanho dos botões do cabeçalho do site, pois eu usei o <li></li> para separar cada um deles
+header li: Aqui ficara as expecificações do tamanho dos botões do cabeçalho do site, pois eu usei o "<li></li>" para separar cada um deles
 
 header ul li a: Nessa parte estará a cor dos botões do cabeçalho e o tamanho desses botões
 
